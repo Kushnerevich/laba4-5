@@ -1,0 +1,7 @@
+F:\ООП\Serialization\NewArchivePlugin\bin\Debug\NewArchivePlugin.dll
+F:\ООП\Serialization\NewArchivePlugin\bin\Debug\NewArchivePlugin.pdb
+F:\ООП\Serialization\NewArchivePlugin\bin\Debug\Serialization.exe
+F:\ООП\Serialization\NewArchivePlugin\bin\Debug\Serialization.pdb
+F:\ООП\Serialization\NewArchivePlugin\obj\Debug\NewArchivePlugin.csprojResolveAssemblyReference.cache
+F:\ООП\Serialization\NewArchivePlugin\obj\Debug\NewArchivePlugin.dll
+F:\ООП\Serialization\NewArchivePlugin\obj\Debug\NewArchivePlugin.pdb

@@ -75,6 +75,7 @@ namespace MyPlugin
 
             tb.Controls.Add(btn);
             api.getControlPages().Controls.Add(tb);
+           
         }
 
         public void but_Click(object sender, EventArgs e)
