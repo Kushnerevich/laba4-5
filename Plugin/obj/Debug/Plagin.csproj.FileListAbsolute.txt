@@ -1,0 +1,7 @@
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plagin.csprojResolveAssemblyReference.cache
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Plagin.pdb
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Serialization.exe
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Serialization.pdb
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plagin.pdb

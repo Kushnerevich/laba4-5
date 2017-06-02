@@ -1,0 +1,17 @@
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Plagin.pdb
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Serialization.exe
+F:\ООП\Serilitation\Serialization\Plagin\bin\Debug\Serialization.pdb
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plagin\obj\Debug\Plagin.pdb
+F:\ООП\Serilitation\Serialization\Plugin\bin\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plugin\bin\Debug\Plagin.pdb
+F:\ООП\Serilitation\Serialization\Plugin\bin\Debug\Serialization.exe
+F:\ООП\Serilitation\Serialization\Plugin\bin\Debug\Serialization.pdb
+F:\ООП\Serilitation\Serialization\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+F:\ООП\Serilitation\Serialization\Plugin\obj\Debug\Plagin.dll
+F:\ООП\Serilitation\Serialization\Plugin\obj\Debug\Plagin.pdb
+C:\Users\Druz\Desktop\Serialization\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Druz\Desktop\Serialization\Plugin\obj\Debug\Plagin.dll
+C:\Users\Druz\Desktop\Serialization\Plugin\obj\Debug\Plagin.pdb
